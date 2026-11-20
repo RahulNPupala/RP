@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables / Keys
+.env
+
+# Miscellaneous
+*.zip
+
+# Editor / System settings
+.vscode/
+__pycache__/
+*.pyc
